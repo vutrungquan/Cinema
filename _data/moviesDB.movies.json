@@ -1,0 +1,2199 @@
+[{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba923"
+  },
+  "imdbId": "tt3915174",
+  "title": "Disney & Pixar",
+  "releaseDate": "2023-1-21",
+  "trailerLink": "https://www.youtube.com/watch?v=tHb7WlgyaUc",
+  "poster": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/p/o/poster_official_preiview.jpg",
+  "backdrops": [
+    "https://images.thedirect.com/media/article_full/disney-pixar-movies.jpg",
+    "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
+    "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
+    "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
+    "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
+    "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
+    "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
+    "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
+    "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
+    "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
+  ],
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "reviews": [
+    {
+      "$oid": "64cb308dd641c3211516d2e0"
+    },
+    {
+      "$oid": "64cb3129d641c3211516d2e1"
+    },
+    {
+      "$oid": "64cb3144d641c3211516d2e2"
+    },
+    {
+      "$oid": "64cb5ca14b13d6033417e13f"
+    }
+  ],
+  "duration": "90 phút",
+  "showtime": "19:00 28/12/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 15,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c787a7d1dd681fe1dfaecd"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaed0"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaed3"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaed6"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaed9"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaedc"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaedf"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee3"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee6"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaeea"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaeed"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaef0"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaef3"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaef6"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaef9"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaefc"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaeff"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf02"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf04"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf06"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf08"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf0a"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf0c"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf0d"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf0f"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf11"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf13"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf15"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf17"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf19"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf1b"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf1c"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf1e"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf21"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf22"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf24"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf26"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf28"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf2a"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf2c"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf2e"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf30"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf32"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf34"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf36"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf37"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf38"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf39"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3a"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3b"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3c"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3d"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3e"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3f"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf40"
+    },
+    {
+      "$oid": "64c787add1dd681fe1dfaf41"
+    },
+    {
+      "$oid": "64c787add1dd681fe1dfaf42"
+    },
+    {
+      "$oid": "64c787add1dd681fe1dfaf43"
+    },
+    {
+      "$oid": "64c787add1dd681fe1dfaf44"
+    },
+    {
+      "$oid": "64c787add1dd681fe1dfaf45"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+},
+{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba926"
+  },
+  "imdbId": "tt11116912",
+  "title": "The Super Mario Bros",
+  "releaseDate": "2022-12-01",
+  "trailerLink": "https://www.youtube.com/watch?v=atTXFBuDUTU",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg",
+  "backdrops": [
+    "https://i.ytimg.com/vi/TnGl01FkMMo/maxresdefault.jpg",
+    "https://image.tmdb.org/t/p/original/e9Qb2kmBnMXHCmNMI8NX1JbWhh1.jpg",
+    "https://image.tmdb.org/t/p/original/2WjOOOGUu6dp4r8VqR5n48DY7JG.jpg",
+    "https://image.tmdb.org/t/p/original/duIsyybgrC4S8kcCIVaxNOttV15.jpg",
+    "https://image.tmdb.org/t/p/original/3RS8runn9AfrYDzRVPWuGPmvXQf.jpg",
+    "https://image.tmdb.org/t/p/original/8wLRn2VvBlCu6cqYS4ypipnwosr.jpg",
+    "https://image.tmdb.org/t/p/original/zDqVVkmfvj47FBUE5lwE4rWnITu.jpg",
+    "https://image.tmdb.org/t/p/original/682Ui5DwZDdbIPzKAEOR7cJlMXa.jpg",
+    "https://image.tmdb.org/t/p/original/6jdlppcnGi3XuJamfs4Vl7HyxB.jpg",
+    "https://image.tmdb.org/t/p/original/uIq83ogs7QBEWi1aqmUrdDIH61m.jpg"
+  ],
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
+  "reviews": [
+    {
+      "$oid": "64cf54a619e299170ff14ce3"
+    }
+  ],
+  "duration": "90 phút",
+  "showtime": "19:00 26/12/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 10,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c78798d1dd681fe1dfad52"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad54"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad56"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad58"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad5a"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad5c"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad5d"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad5f"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad61"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad63"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad65"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad67"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad69"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad6c"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad6e"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad70"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad72"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad74"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad76"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad78"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad7a"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad7b"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad7c"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad7d"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad7e"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad7f"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad80"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad81"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad82"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad83"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad84"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad85"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad86"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad87"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad88"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad8a"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad8c"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad8e"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad90"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad92"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad94"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad96"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad98"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad9a"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad9c"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad9e"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfada0"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfada2"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfada4"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfada6"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfada8"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadab"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadae"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb1"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb4"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb7"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadba"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadbd"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadc0"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadc2"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+},
+{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba927"
+  },
+  "imdbId": "tt6443346",
+  "title": "Conan",
+  "releaseDate": "2022-10-19",
+  "trailerLink": "https://www.youtube.com/watch?v=oOKl_bSbmV8&list=PLtxdpaXrBZDGmGR0aVfMWC2auhJ83bTGB&index=11",
+  "poster": "https://product.hstatic.net/200000343865/product/conan-tieu-thuyet---not-nhac-kinh-hoang_f7440159a5fe488abd7675bb577af150_master.jpg",
+  "backdrops": [
+    "https://i.ytimg.com/vi/EkTG02GQ8Ao/maxresdefault.jpg",
+    "https://image.tmdb.org/t/p/original/9hNtTwY8P5v2MKnUeb7iuREI7Yb.jpg",
+    "https://image.tmdb.org/t/p/original/zplntIhzXyBiXFYWReETxh0uyFF.jpg",
+    "https://image.tmdb.org/t/p/original/yxkhM18dYwsRRffLnd9lz2d4i0v.jpg",
+    "https://image.tmdb.org/t/p/original/bgaBKREAfUtZgvd6zoV6RQRcIUt.jpg",
+    "https://image.tmdb.org/t/p/original/uqYxoj4hqwocwfBs2xxGyQT88Yk.jpg",
+    "https://image.tmdb.org/t/p/original/qBx97wytqlyPqXATHqRgIVFxJRU.jpg",
+    "https://image.tmdb.org/t/p/original/d6MhreFdMHONqX3iZlJGCF8UkIt.jpg",
+    "https://image.tmdb.org/t/p/original/9inNotReApz0n50WvWbrt0n1cbL.jpg",
+    "https://image.tmdb.org/t/p/original/pSOuqtJmdh7aI1yiK7M8e0PmbPC.jpg"
+  ],
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Science Fiction"
+  ],
+  "reviews": [],
+  "duration": "90 phút",
+  "showtime": "19:00 30/10/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 6,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c787a1d1dd681fe1dfae20"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae24"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae28"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae2b"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae2e"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae31"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae34"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae37"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae39"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae3c"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae3f"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae42"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae46"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae49"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae4c"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae4f"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae52"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae55"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae57"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae59"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae5b"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae5d"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae5f"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae61"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae63"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae65"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae67"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae69"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae6b"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae6d"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae70"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae73"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae76"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae79"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae7b"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae7e"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae80"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae83"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae85"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae87"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae89"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae8b"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae8d"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae8f"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae91"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae93"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae94"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae96"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae98"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae9a"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae9c"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfae9e"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea0"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea2"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea4"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea7"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeaa"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaead"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb0"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb3"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+},
+{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba929"
+  },
+  "imdbId": "tt3447590",
+  "title": "Kung Fu Panda 3",
+  "releaseDate": "2022-11-25",
+  "trailerLink": "https://www.youtube.com/watch?v=lroAhsDr2vI",
+  "poster": "https://cmavn.org/wp-content/uploads/2016/02/img_201508242045375362.jpg",
+  "backdrops": [
+    "https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/28/hw7ukez0_1920x1080-gautruckungfu3_1920_1080.jpeg",
+    "https://image.tmdb.org/t/p/original/bPftMelR4N3jUg2LTlEblFz0gWk.jpg",
+    "https://image.tmdb.org/t/p/original/u2MLMkGEjJGQDs17Vmoej1RYFph.jpg",
+    "https://image.tmdb.org/t/p/original/jG52tsazn04F1fe8hPZfVv7ICKt.jpg",
+    "https://image.tmdb.org/t/p/original/4INEI7t7Vcg0cFvze7UIgwYCeSG.jpg",
+    "https://image.tmdb.org/t/p/original/krAu6znzW8c54NdJPneNi4bem1l.jpg",
+    "https://image.tmdb.org/t/p/original/6TUMppDMrYA4gzoaDUbbSnZFlxW.jpg",
+    "https://image.tmdb.org/t/p/original/hacV1h1SWrPlrerF3xpetvEdqT.jpg",
+    "https://image.tmdb.org/t/p/original/7iXsB1r9IK17ZFShqoxcHKQ7dLp.jpg",
+    "https://image.tmdb.org/t/p/original/dwiRYDLcFyDOkgkSc1JFtTr6Kdk.jpg"
+  ],
+  "genres": [
+    "Fantasy",
+    "Family",
+    "Comedy"
+  ],
+  "reviews": [
+    {
+      "$oid": "64cb5e294b13d6033417e140"
+    }
+  ],
+  "duration": "90 phút",
+  "showtime": "19:00 10/12/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 4,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c7879dd1dd681fe1dfada7"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadaa"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadad"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb0"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb3"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb6"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb9"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadbc"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadbf"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadc3"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadc5"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadc7"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadc9"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadcb"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadcd"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadcf"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadd1"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadd3"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadd5"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadd7"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadd9"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfaddd"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade0"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade3"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade6"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade9"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfaded"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadf0"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadf3"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadf6"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfadf9"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfadfc"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfadff"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae03"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae06"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae09"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae0c"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae0f"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae12"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae15"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae18"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae1a"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae1d"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae21"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae25"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae29"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae2c"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae2f"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae32"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae35"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae38"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae3b"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae3e"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae43"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae45"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae48"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae4b"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae4e"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae51"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae54"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+},
+{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba92c"
+  },
+  "imdbId": "tt8093700",
+  "title": "Doraemon",
+  "releaseDate": "2017-09-15",
+  "trailerLink": "https://www.youtube.com/watch?v=kwXRo1rwt9E",
+  "poster": "https://imgs.vietnamnet.vn/Images/2017/05/26/09/20170526091045-doraemon-3.jpg",
+  "backdrops": [
+    "https://cdn.popsww.com/blog/sites/2/2023/05/doraemon-nobita-va-chuyen-tham-hiem-nam-cuc-kachi-kochi-2.jpg",
+    "https://image.tmdb.org/t/p/original/wSILunFEbvw00Ql2aaMHCSZf3cI.jpg",
+    "https://image.tmdb.org/t/p/original/xTsERrOCW15OIYl5aPX7Jbj38wu.jpg",
+    "https://image.tmdb.org/t/p/original/j06sSrtbqnZdSgG6yEduao95y48.jpg",
+    "https://image.tmdb.org/t/p/original/v4YV4ne1nwNni35iz4WmpZRZpCD.jpg",
+    "https://image.tmdb.org/t/p/original/6n5ln1vWGD3JyT6Ibt7ZxjSxY3v.jpg",
+    "https://image.tmdb.org/t/p/original/gi47WUUYVQWaLE5mJraS87ycdy6.jpg",
+    "https://image.tmdb.org/t/p/original/dTQOU5a32K3UPTIXHgipEqN41OM.jpg",
+    "https://image.tmdb.org/t/p/original/7zQJYV02yehWrQN6NjKsBorqUUS.jpg",
+    "https://image.tmdb.org/t/p/original/rdDL4y7BxGyXFEDJgAG4lz89bG2.jpg"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "reviews": [],
+  "duration": "90 phút",
+  "showtime": "19:00 27/12/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 4,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c78792d1dd681fe1dfacee"
+    },
+    {
+      "$oid": "64c78792d1dd681fe1dfacef"
+    },
+    {
+      "$oid": "64c78792d1dd681fe1dfacf0"
+    },
+    {
+      "$oid": "64c78792d1dd681fe1dfacf1"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacf2"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacf3"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacf4"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacf5"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacf6"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacf7"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacf8"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacf9"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacfa"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacfb"
+    },
+    {
+      "$oid": "64c78793d1dd681fe1dfacfc"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfacfd"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfacfe"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfacff"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfad00"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfad01"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfad02"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfad03"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfad04"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfad05"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfad06"
+    },
+    {
+      "$oid": "64c78794d1dd681fe1dfad08"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad0a"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad0c"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad0e"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad10"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad12"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad14"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad16"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad17"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad19"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad1b"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad1d"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad1f"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad21"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad23"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad25"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad27"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad29"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad2a"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad2c"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad2e"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad30"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad32"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad34"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad36"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad38"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad3a"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad3c"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad3e"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad40"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad42"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad44"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad45"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad47"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad49"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+},
+{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba925"
+  },
+  "imdbId": "tt8760708",
+  "title": "M3GAN",
+  "releaseDate": "2018-06-01",
+  "trailerLink": "https://www.youtube.com/watch?v=O9z8DR1BVtQ",
+  "poster": "https://m.media-amazon.com/images/I/71PMH5f-QYL._AC_UF1000,1000_QL80_.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/5kAGbi9MFAobQTVfK4kWPnIfnP0.jpg",
+    "https://image.tmdb.org/t/p/original/dlxzUj7z1MqEcFiwvvrj0bvBKDY.jpg",
+    "https://image.tmdb.org/t/p/original/q2fY4kMXKoGv4CQf310MCxpXlRI.jpg",
+    "https://image.tmdb.org/t/p/original/pTxwFdsdDWzpCRYuk1QbggdaOlL.jpg",
+    "https://image.tmdb.org/t/p/original/1zuz2RgFoOjulkjjNHHFc3WiHGB.jpg",
+    "https://image.tmdb.org/t/p/original/7HqxI1IXMloT9VTSuDC8ikaj810.jpg",
+    "https://image.tmdb.org/t/p/original/vpK2rp3J5LiC01HoNM0j9DEHQ1T.jpg",
+    "https://image.tmdb.org/t/p/original/cNHXdmr4amP6EPCMa0dqD8rwzDV.jpg",
+    "https://image.tmdb.org/t/p/original/txQLFd6rfQrskQhFENkS1jElptt.jpg",
+    "https://image.tmdb.org/t/p/original/dC4tj1ONdlZ2TWv4XD2SA1KUnJN.jpg"
+  ],
+  "genres": [
+    "Science Fiction",
+    "Horror",
+    "Comedy"
+  ],
+  "reviews": [],
+  "duration": "90 phút",
+  "showtime": "19:00 29/12/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 10,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c787a3d1dd681fe1dfae6f"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae72"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae75"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae78"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae7c"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae7f"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae81"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae82"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae84"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae86"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae88"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae8a"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae8c"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae8e"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae90"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae92"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae95"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae97"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae99"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae9b"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae9d"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfae9f"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea1"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea3"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea6"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea9"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeac"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeaf"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb2"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb5"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb7"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb9"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaebb"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaebc"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaebe"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec0"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec2"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec4"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec6"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec8"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaeca"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaecc"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaecf"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaed2"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaed5"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaed7"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaeda"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaedd"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee0"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee2"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee5"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee8"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaeeb"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaeef"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaef1"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaef5"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaef7"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaefa"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaefd"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf00"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+},
+{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba928"
+  },
+  "imdbId": "tt0499549",
+  "title": "Xì Trum",
+  "releaseDate": "2009-12-15",
+  "trailerLink": "https://www.youtube.com/watch?v=C0nKzipfyXI",
+  "poster": "https://cdn.vatgia.com/pictures/fullsize/2014/01/27/kcm1390786785.jpeg",
+  "backdrops": [
+    "https://i.ytimg.com/vi/ZBiLfCUjAnU/maxresdefault.jpg",
+    "https://image.tmdb.org/t/p/original/8I37NtDffNV7AZlDa7uDvvqhovU.jpg",
+    "https://image.tmdb.org/t/p/original/2YLOjUiczXEgVZFDSIeH3iWB3Ub.jpg",
+    "https://image.tmdb.org/t/p/original/Yc9q6QuWrMp9nuDm5R8ExNqbEq.jpg",
+    "https://image.tmdb.org/t/p/original/jlQJDD0L5ZojjlS0KYnApdO0n19.jpg",
+    "https://image.tmdb.org/t/p/original/sfw4m2tOgQRzhF6VXxaXGfd1vX.jpg",
+    "https://image.tmdb.org/t/p/original/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+    "https://image.tmdb.org/t/p/original/xMMrBziwJqrgjerqpNeQvwuwiUp.jpg",
+    "https://image.tmdb.org/t/p/original/chauy3iJaZtrMbTr72rgNmOZwo3.jpg",
+    "https://image.tmdb.org/t/p/original/mYJkJ7YxJsUNI1nAOOUOpRN2auC.jpg"
+  ],
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "reviews": [
+    {
+      "$oid": "64cb55614b13d6033417e137"
+    }
+  ],
+  "duration": "90 phút",
+  "showtime": "19:00 8/8/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 6,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c7879fd1dd681fe1dfadda"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfaddc"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfaddf"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade2"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade5"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade8"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadeb"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadee"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadef"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadf2"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadf5"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfadf8"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfadfb"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfadfe"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae01"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae04"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae07"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae0a"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae0d"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae10"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae13"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae16"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae19"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae1b"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae1e"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae22"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae26"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae2a"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae2d"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae30"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae33"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae36"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae3a"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae3d"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae40"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae41"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae44"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae47"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae4a"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae4d"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae50"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae53"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae56"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae58"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae5a"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae5c"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae5e"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae60"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae62"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae64"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae66"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae68"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae6a"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae6c"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae6e"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae71"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae74"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae77"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae7a"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae7d"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+},
+{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba92a"
+  },
+  "imdbId": "tt9114286",
+  "title": "Tom And Jerry",
+  "releaseDate": "2022-11-11",
+  "trailerLink": "https://www.youtube.com/watch?v=kP9TfCWaQT4",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg5NDZiMGQtY2ZjNS00NjFjLWFjNGYtNGMxMjI4OTA0NDI0XkEyXkFqcGdeQXVyMTE0MTMxNDUz._V1_.jpg",
+  "backdrops": [
+    "https://gamek.mediacdn.vn/133514250583805952/2020/5/11/screen-0-15891301485141688342951.jpg",
+    "https://image.tmdb.org/t/p/original/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+    "https://image.tmdb.org/t/p/original/cs3LpA38BS2XDPfUzdgMB537XOo.jpg",
+    "https://image.tmdb.org/t/p/original/6SGMzCsaU094Mt32IHGkIYtIl06.jpg",
+    "https://image.tmdb.org/t/p/original/bty0TwJGsxMqYRptgyzn28Cxq5y.jpg",
+    "https://image.tmdb.org/t/p/original/h2jp3CSdTPc22mUqps9I8vXDPaN.jpg",
+    "https://image.tmdb.org/t/p/original/fSfWloWi5rmqbmC7GhO0HY2TMZW.jpg",
+    "https://image.tmdb.org/t/p/original/vZujZnmkYB5nGUC5d5llK9DbGLk.jpg",
+    "https://image.tmdb.org/t/p/original/8sMmAmN2x7mBiNKEX2o0aOTozEB.jpg",
+    "https://image.tmdb.org/t/p/original/geI3Mk7nehX1kvyIY3K5ajaiNfI.jpg"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "reviews": [],
+  "duration": "90 phút",
+  "showtime": "19:00 21/12/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 4,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c7879bd1dd681fe1dfad89"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad8b"
+    },
+    {
+      "$oid": "64c7879bd1dd681fe1dfad8d"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad8f"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad91"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad93"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad95"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad97"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad99"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad9b"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad9d"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfad9f"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfada1"
+    },
+    {
+      "$oid": "64c7879cd1dd681fe1dfada3"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfada5"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfada9"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadac"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadaf"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb2"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb5"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadb8"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadbb"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadbe"
+    },
+    {
+      "$oid": "64c7879dd1dd681fe1dfadc1"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadc4"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadc6"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadc8"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadca"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadcc"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadce"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadd0"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadd2"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadd4"
+    },
+    {
+      "$oid": "64c7879ed1dd681fe1dfadd6"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadd8"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfaddb"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadde"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade1"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade4"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfade7"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadea"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadec"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadf1"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadf4"
+    },
+    {
+      "$oid": "64c7879fd1dd681fe1dfadf7"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfadfa"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfadfd"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae00"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae02"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae05"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae08"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae0b"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae0e"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae11"
+    },
+    {
+      "$oid": "64c787a0d1dd681fe1dfae14"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae17"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae1c"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae1f"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae23"
+    },
+    {
+      "$oid": "64c787a1d1dd681fe1dfae27"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+},
+{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba92b"
+  },
+  "imdbId": "tt10298840",
+  "title": "Strange World",
+  "releaseDate": "2022-11-23",
+  "trailerLink": "https://www.youtube.com/watch?v=bKh2G73gCCs",
+  "poster": "https://image.tmdb.org/t/p/w500/kgJ8bX3zDQDM2Idkleis28XSVnu.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg",
+    "https://image.tmdb.org/t/p/original/zNIlXd7CAz0hHAInbs2nsFRc0xQ.jpg",
+    "https://image.tmdb.org/t/p/original/1rukJHAP5p6DNHe75Oo1D0m3SnR.jpg",
+    "https://image.tmdb.org/t/p/original/aKbe411WyjTZy1OZUVIdNDYVf21.jpg",
+    "https://image.tmdb.org/t/p/original/9RKvxz0IryD2ofLYyGpnE7HeWlR.jpg",
+    "https://image.tmdb.org/t/p/original/kFURsDklj7QGMMkGJVwDBaJJn05.jpg",
+    "https://image.tmdb.org/t/p/original/v6oBDkd7ogXzTQxIU0H5SXq0hOL.jpg",
+    "https://image.tmdb.org/t/p/original/fBshLiEJcjdfrU3qQBIINcePSsm.jpg",
+    "https://image.tmdb.org/t/p/original/3oie0kID8SNCjkqN6Raweg5dJa.jpg",
+    "https://image.tmdb.org/t/p/original/zgFldVKON1Nxp8ui7HVABGKDQKM.jpg"
+  ],
+  "genres": [
+    "Family",
+    "Adventure",
+    "Science Fiction",
+    "Animation"
+  ],
+  "reviews": [],
+  "duration": "90 phút",
+  "showtime": "19:00 10/9/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 4,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c78794d1dd681fe1dfad07"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad09"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad0b"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad0d"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad0f"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad11"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad13"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad15"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad18"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad1a"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad1c"
+    },
+    {
+      "$oid": "64c78795d1dd681fe1dfad1e"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad20"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad22"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad24"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad26"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad28"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad2b"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad2d"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad2f"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad31"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad33"
+    },
+    {
+      "$oid": "64c78796d1dd681fe1dfad35"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad37"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad39"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad3b"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad3d"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad3f"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad41"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad43"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad46"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad48"
+    },
+    {
+      "$oid": "64c78797d1dd681fe1dfad4a"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad4b"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad4c"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad4d"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad4e"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad4f"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad50"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad51"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad53"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad55"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad57"
+    },
+    {
+      "$oid": "64c78798d1dd681fe1dfad59"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad5b"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad5e"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad60"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad62"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad64"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad66"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad68"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad6a"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad6b"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad6d"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad6f"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad71"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad73"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad75"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad77"
+    },
+    {
+      "$oid": "64c7879ad1dd681fe1dfad79"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+},
+{
+  "_id": {
+    "$oid": "64abba2198b1835ec6eba924"
+  },
+  "imdbId": "tt1630029",
+  "title": "Avatar: The Way of Water",
+  "releaseDate": "2022-12-16",
+  "trailerLink": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+  "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/original/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+    "https://image.tmdb.org/t/p/original/evaFLqtswezLosllRZtJNMiO1UR.jpg",
+    "https://image.tmdb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
+    "https://image.tmdb.org/t/p/original/zaapQ1zjKe2BGhhowh5pM251Gpl.jpg",
+    "https://image.tmdb.org/t/p/original/tQ91wWQJ2WRNDXwxuO7GCXX5VPC.jpg",
+    "https://image.tmdb.org/t/p/original/5gPQKfFJnl8d1edbkOzKONo4mnr.jpg",
+    "https://image.tmdb.org/t/p/original/2fS9cpar9rzxixwnRptg4bGmIym.jpg",
+    "https://image.tmdb.org/t/p/original/fkGR1ltNbvERk3topo4dP3gWsvR.jpg",
+    "https://image.tmdb.org/t/p/original/rb9IHprKNoSKqatP2vr25unUDSu.jpg",
+    "https://image.tmdb.org/t/p/original/37ZswIuRQcRBN7kHij5MBjzRMRt.jpg"
+  ],
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "reviews": [],
+  "duration": "90 phút",
+  "showtime": "19:00 25/12/2023",
+  "ticketPrice": 50000,
+  "seatOrdered": 14,
+  "seatMax": 60,
+  "seats": [
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea5"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea8"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeab"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeae"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb1"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb4"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb6"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeb8"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeba"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaebd"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaebf"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec1"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec3"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec5"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec7"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec9"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaecb"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaece"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaed1"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaed4"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaed8"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaedb"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaede"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee1"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee4"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee7"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaee9"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaeec"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaeee"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaef2"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaef4"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaef8"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaefb"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaefe"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf01"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf03"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf05"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf07"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf09"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf0b"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf0e"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf10"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf12"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf14"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf16"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf18"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf1a"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf1d"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf1f"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf20"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf23"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf25"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf27"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf29"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf2b"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf2d"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf2f"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf31"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf33"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf35"
+    }
+  ],
+  "listUsers": [],
+  "_class": "dev.farhan.movieist.movies.model.Movie"
+}]

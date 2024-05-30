@@ -1,0 +1,9634 @@
+[{
+  "_id": {
+    "$oid": "64c78792d1dd681fe1dfacee"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:10.585Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:10.585Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78792d1dd681fe1dfacef"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:10.729Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:10.729Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78792d1dd681fe1dfacf0"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:10.820Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:10.820Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78792d1dd681fe1dfacf1"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:10.917Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:10.917Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacf2"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:11.008Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.008Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacf3"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:11.099Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.099Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacf4"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:11.188Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.188Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacf5"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:11.277Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.277Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacf6"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:11.363Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.363Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacf7"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:11.455Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.455Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacf8"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:11.548Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.548Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacf9"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:11.640Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.640Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacfa"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:11.737Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.737Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacfb"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:11.827Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.827Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78793d1dd681fe1dfacfc"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:11.922Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:11.922Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfacfd"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:12.014Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.014Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfacfe"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:12.107Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.107Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfacff"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:12.205Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.205Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfad00"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:12.298Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.298Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfad01"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:12.391Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.391Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfad02"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:12.487Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.487Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfad03"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:12.584Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.584Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfad04"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:12.678Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.678Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfad05"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:12.769Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.769Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfad06"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:12.864Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.864Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfad07"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:12.933Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.933Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78794d1dd681fe1dfad08"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:12.953Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:12.953Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad09"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:13.019Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.019Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad0a"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:13.042Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.042Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad0b"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:13.101Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.101Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad0c"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:13.135Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.135Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad0d"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:13.180Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.180Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad0e"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:13.221Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.221Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad0f"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:13.273Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.273Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad10"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:13.305Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.305Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad11"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:13.363Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.363Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad12"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:13.388Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.388Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad13"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:13.455Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.455Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad14"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:13.470Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.470Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad15"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:13.546Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.546Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad16"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:13.554Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.554Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad17"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:13.635Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.635Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad18"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:13.638Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.638Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad19"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:13.717Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.717Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad1a"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:13.731Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.731Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad1b"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:13.802Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.802Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad1c"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:13.827Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.827Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad1d"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:13.889Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.889Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad1e"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:13.921Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.921Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78795d1dd681fe1dfad1f"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:13.973Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:13.973Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad20"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:14.007Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.007Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad21"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:14.056Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.056Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad22"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:14.099Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.099Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad23"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:14.148Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.148Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad24"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:14.195Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.195Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad25"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:14.231Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.232Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad26"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:14.286Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.286Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad27"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:14.310Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.310Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad28"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:14.384Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.384Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad29"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:14.394Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.394Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad2a"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:14.475Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.475Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad2b"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:14.479Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.479Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad2c"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:14.558Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.558Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad2d"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:14.577Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.577Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad2e"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:14.645Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.645Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad2f"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:14.667Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.667Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad30"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:14.727Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.727Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad31"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:14.758Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.758Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad32"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:14.812Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.812Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad33"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:14.846Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.846Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad34"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:14.897Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.897Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad35"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:14.939Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.939Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78796d1dd681fe1dfad36"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:14.990Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:14.990Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad37"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:15.046Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.046Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad38"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:15.089Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.089Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad39"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:15.139Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.139Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad3a"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:15.179Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.179Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad3b"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:15.236Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.236Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad3c"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:15.263Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.263Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad3d"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:15.333Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.333Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad3e"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:15.352Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.352Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad3f"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:15.430Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.430Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad40"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:15.453Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.453Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad41"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:15.522Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.522Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad42"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:15.540Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.540Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad43"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:15.613Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.613Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad44"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:15.624Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.624Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad46"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:15.706Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.706Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad45"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:15.705Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.705Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad47"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:15.789Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.789Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad48"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:15.800Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.800Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad49"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:15.868Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.868Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78797d1dd681fe1dfad4a"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:15.895Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:15.895Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad4b"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:16.002Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.002Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad4c"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:16.106Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.106Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad4d"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:16.195Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.195Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad4e"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:16.355Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.355Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad4f"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:16.438Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.438Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad50"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:16.523Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.523Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad51"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:16.628Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.628Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad52"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:16.646Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:13:11.222Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad53"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:16.711Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.711Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad54"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:16.738Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.738Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad55"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:16.795Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.795Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad56"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:16.834Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:07:42.644Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad57"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:16.881Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.881Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad58"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:16.915Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:31:08.123Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78798d1dd681fe1dfad59"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:16.972Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:16.972Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad5a"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:17.004Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:31:33.000Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad5b"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:17.074Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.074Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad5c"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:17.085Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.085Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad5d"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:17.167Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.167Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad5e"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:17.170Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.170Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad5f"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:17.250Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.250Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad60"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:17.271Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.271Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad61"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:17.334Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.334Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad62"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:17.368Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.368Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad63"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:17.414Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.414Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad64"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:17.456Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.456Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad65"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:17.508Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.508Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad66"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:17.540Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.540Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad67"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:17.604Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.604Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad68"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:17.622Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.622Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad69"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:17.696Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:07:42.692Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad6a"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:17.704Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.704Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad6b"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:17.791Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.791Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad6c"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:17.793Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.793Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad6d"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:17.872Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.872Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad6e"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:17.887Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.887Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad6f"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:17.962Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.962Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c78799d1dd681fe1dfad70"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:17.978Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:17.978Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad71"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:18.046Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.046Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad72"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:18.071Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.071Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad73"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:18.130Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.130Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad74"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:18.166Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.166Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad75"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:18.210Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.210Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad76"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:18.253Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.253Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad77"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:18.304Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.304Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad78"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:18.338Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.338Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad79"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:18.396Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.396Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad7a"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:18.424Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.424Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad7b"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:18.510Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.510Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad7c"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:18.594Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.594Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad7d"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:18.678Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.678Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad7e"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:18.765Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.765Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad7f"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:18.852Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.852Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ad1dd681fe1dfad80"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:18.935Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:18.935Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad81"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:19.019Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.019Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad82"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:19.103Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.103Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad83"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:19.188Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.188Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad84"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:19.278Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.278Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad85"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:19.364Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.364Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad86"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:19.447Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.447Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad87"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:19.618Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.618Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad88"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:19.724Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.724Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad89"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:19.728Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.728Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad8a"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:19.816Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.816Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad8b"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:19.835Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.835Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad8c"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:19.908Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.908Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad8d"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:19.938Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.938Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879bd1dd681fe1dfad8e"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:19.993Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:19.993Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad8f"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:20.035Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.035Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad90"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:20.083Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.083Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad91"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:20.137Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.137Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad92"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:20.166Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.166Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad93"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:20.235Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.235Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad94"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:20.249Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.249Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad95"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:20.328Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.328Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad96"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:20.332Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.332Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad97"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:20.414Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.414Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad98"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:20.417Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.417Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad99"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:20.500Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.500Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad9a"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:20.518Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.518Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad9b"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:20.587Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.587Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad9c"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:20.610Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.610Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad9d"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:20.669Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.669Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad9e"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:20.706Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.706Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfad9f"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:20.751Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.751Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfada0"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:20.793Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.793Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfada1"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:20.849Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.849Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfada2"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:20.874Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.874Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfada3"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:20.942Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:20.942Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879cd1dd681fe1dfada4"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:20.956Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:07:42.740Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfada5"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:21.034Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.034Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfada6"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:21.038Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.038Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfada7"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:21.072Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.072Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfada8"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:21.121Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.121Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfada9"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:21.127Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.127Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadaa"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:21.160Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.160Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadab"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:21.203Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.203Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadac"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:21.222Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.222Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadad"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:21.261Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.261Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadae"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:21.299Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.299Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadaf"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:21.317Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.317Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb0"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:21.354Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.354Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb1"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:21.388Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.388Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb2"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:21.409Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.409Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb3"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:21.443Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.443Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb4"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:21.559Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.559Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb5"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:21.562Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.562Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb6"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:21.611Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.611Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb7"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:21.642Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.642Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb8"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:21.657Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.657Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadb9"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:21.703Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.703Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadba"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:21.728Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.728Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadbb"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:21.749Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.749Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadbc"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:21.795Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.795Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadbd"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:21.813Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.813Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadbe"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:21.839Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.839Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadbf"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:21.892Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.892Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadc0"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:21.898Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.898Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879dd1dd681fe1dfadc1"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:21.932Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:21.932Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadc2"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:22.006Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.006Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadc3"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:22.009Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.009Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadc4"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:22.022Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.022Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadc5"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:22.111Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.111Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadc6"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:22.126Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.126Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadc7"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:22.211Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.211Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadc8"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:22.304Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.304Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadc9"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:22.367Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.367Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadca"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:22.403Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.403Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadcb"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:22.456Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.456Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadcc"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:22.494Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.494Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadcd"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:22.550Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.550Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadce"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:22.589Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.589Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadcf"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:22.643Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.643Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadd0"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:22.682Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.682Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadd1"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:22.738Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.738Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadd2"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:22.772Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.772Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadd3"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:22.827Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.827Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadd4"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:22.863Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.863Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadd5"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:22.918Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.918Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879ed1dd681fe1dfadd6"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:22.952Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:22.952Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadd7"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:23.006Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.006Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadd8"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:23.042Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.042Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadd9"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:23.093Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.093Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadda"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:23.118Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.118Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfaddb"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:23.144Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.144Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfaddc"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:23.203Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.203Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfaddd"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:23.212Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.212Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadde"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:23.231Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.231Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfaddf"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:23.282Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.282Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade0"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:23.315Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.315Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade1"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:23.320Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.320Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade2"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:23.359Z"
+  },
+  "updated": {
+    "$date": "2023-08-05T09:21:41.573Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Xì Trum",
+  "userName": "manh321",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade3"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:23.403Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.403Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade4"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:23.407Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.407Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade5"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:23.440Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.440Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade6"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:23.496Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.496Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade7"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:23.497Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.497Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade8"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:23.529Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.529Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfade9"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:23.589Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.589Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadea"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:23.593Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.593Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadeb"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:23.613Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.613Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadec"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:23.689Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.689Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfaded"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:23.689Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.689Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadee"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:23.698Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.698Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadf0"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:23.781Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.781Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadef"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:23.781Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.781Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadf1"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:23.784Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.784Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadf2"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:23.864Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.864Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadf3"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:23.875Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.875Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadf4"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:23.878Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.878Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadf5"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:23.954Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.954Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadf6"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:23.966Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.966Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c7879fd1dd681fe1dfadf7"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:23.974Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:23.974Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfadf8"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:24.035Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.035Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfadf9"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:24.057Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.057Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfadfa"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:24.062Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.062Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfadfb"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:24.116Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.116Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfadfc"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:24.145Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.145Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfadfd"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:24.157Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.157Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfadfe"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:24.205Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.205Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfadff"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:24.235Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.235Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae00"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:24.239Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.239Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae01"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:24.299Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.299Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae02"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:24.318Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.318Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae03"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:24.326Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.327Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae04"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:24.392Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.392Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae05"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:24.400Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.400Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae06"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:24.416Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.416Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae07"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:24.491Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.491Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae08"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:24.503Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.503Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae09"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:24.533Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.533Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae0a"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:24.587Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.587Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae0b"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:24.594Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.594Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae0c"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:24.632Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.632Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae0d"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:24.744Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.744Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae0e"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:24.779Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.779Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae0f"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:24.793Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.793Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae10"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:24.825Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.825Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae11"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:24.870Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.870Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae12"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:24.888Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.888Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae13"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:24.906Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.906Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae14"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:24.969Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.969Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae15"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:24.977Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.977Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a0d1dd681fe1dfae16"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:24.989Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:24.989Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae17"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:25.062Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.062Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae18"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:25.066Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.066Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae19"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:25.069Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.069Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae1a"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:25.158Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.158Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae1b"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:25.161Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.161Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae1c"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:25.165Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.165Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae1d"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:25.241Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.241Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae1e"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:25.250Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.250Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae1f"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:25.259Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.259Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae20"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:25.289Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.289Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae21"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:25.326Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.326Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae22"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:25.338Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.338Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae23"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:25.351Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.351Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae24"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:25.376Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.376Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae25"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:25.414Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.414Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae26"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:25.429Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.429Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae27"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:25.443Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.443Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae28"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:25.460Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.460Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae29"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:25.502Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.502Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae2a"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:25.515Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.515Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae2b"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:25.544Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.544Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae2c"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:25.586Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.586Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae2d"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:25.609Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.609Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae2e"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:25.624Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.624Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae2f"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:25.665Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.665Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae30"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:25.694Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.694Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae31"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:25.706Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.706Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae32"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:25.745Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.745Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae34"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:25.787Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.787Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae33"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:25.787Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.787Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae35"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:25.832Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.832Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae36"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:25.870Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.870Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae37"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:25.870Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.870Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae38"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:25.932Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.932Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae39"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:25.954Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.954Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a1d1dd681fe1dfae3a"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:25.957Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:25.957Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae3b"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:26.025Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.025Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae3c"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:26.035Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.035Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae3d"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:26.040Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.040Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae3e"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:26.180Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.180Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae3f"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:26.182Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.182Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae40"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:26.186Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.186Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae41"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:26.310Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.310Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae43"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:26.316Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.316Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae42"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:26.316Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T07:15:58.701Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Black Adam",
+  "userName": "bmanh7920",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae44"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:26.398Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.398Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae45"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:26.409Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.409Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae46"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:26.414Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T07:15:58.819Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Black Adam",
+  "userName": "bmanh7920",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae47"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:26.480Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.480Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae48"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:26.492Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.492Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae49"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:26.504Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.504Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae4a"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:26.562Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.562Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae4b"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:26.577Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.577Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae4c"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:26.600Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.600Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae4d"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:26.652Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.652Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae4e"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:26.666Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.666Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae4f"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:26.691Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.691Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae50"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:26.732Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.732Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae51"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:26.746Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.746Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae52"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:26.782Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.782Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae53"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:26.814Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.814Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae54"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:26.826Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.826Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae55"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:26.869Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.869Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae56"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:26.895Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.895Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae57"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:26.951Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.951Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a2d1dd681fe1dfae58"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:26.978Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:26.978Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae59"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:27.031Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.031Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae5a"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:27.074Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.074Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae5b"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:27.116Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.116Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae5c"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:27.159Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.159Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae5d"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:27.212Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.212Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae5e"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:27.252Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.252Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae5f"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:27.293Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.293Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae60"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:27.336Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.336Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae61"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:27.380Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.380Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae62"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:27.420Z"
+  },
+  "updated": {
+    "$date": "2023-08-05T09:21:41.620Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "moviesId": "Xì Trum",
+  "userName": "manh321",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae63"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:27.464Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.464Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae64"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:27.505Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.505Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae65"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:27.545Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.545Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae66"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:27.591Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.591Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae67"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:27.630Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.630Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae68"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:27.676Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.676Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae69"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:27.709Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.709Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae6a"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:27.758Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.758Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae6b"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:27.791Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.791Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae6c"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:27.840Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.840Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae6d"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:27.874Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.874Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae6e"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:27.924Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.924Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae6f"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:27.927Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T14:35:32.295Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "tt8760708",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a3d1dd681fe1dfae70"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:27.953Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:27.953Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae71"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:28.006Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.006Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae72"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:28.019Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T14:35:32.755Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "tt8760708",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae73"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:28.043Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.043Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae74"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:28.092Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.092Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae75"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:28.114Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T14:35:33.965Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "tt8760708",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae76"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:28.140Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.140Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae77"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:28.182Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.182Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae79"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:28.225Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.225Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae78"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:28.216Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T14:40:24.867Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "M3GAN",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae7a"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:28.348Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.348Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae7b"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:28.418Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.418Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae7c"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:28.430Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T14:40:54.671Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "M3GAN",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae7d"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:28.455Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.455Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae7e"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:28.507Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.507Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae7f"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:28.519Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.519Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae80"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:28.641Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.641Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae81"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:28.646Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.646Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae82"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:28.754Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.754Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae83"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:28.761Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.761Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae84"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:28.841Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.841Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae85"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:28.859Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.859Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae86"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:28.924Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.924Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a4d1dd681fe1dfae87"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:28.951Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:28.951Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae88"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:29.009Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.009Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae89"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:29.043Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.043Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae8a"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:29.088Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.088Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae8b"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:29.127Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.127Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae8c"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:29.183Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T14:35:34.492Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "tt8760708",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae8d"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:29.213Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.213Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae8e"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:29.283Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.283Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae8f"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:29.301Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.301Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae90"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:29.378Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.378Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae91"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:29.382Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.382Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae93"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:29.471Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.471Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae92"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:29.470Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.470Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae94"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:29.573Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.573Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae95"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:29.582Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.582Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae96"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:29.663Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.663Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae97"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:29.676Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.676Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae98"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:29.748Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.748Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae99"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:29.768Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.768Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae9a"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:29.833Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.833Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae9b"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:29.861Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.861Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae9c"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:29.915Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.915Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a5d1dd681fe1dfae9d"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:29.950Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:29.950Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfae9e"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:30.003Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.003Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfae9f"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:30.038Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.038Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea0"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:30.085Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.085Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea1"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:30.128Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.128Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea2"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:30.170Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.170Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea3"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:30.215Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.215Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea4"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:30.254Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.254Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea5"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:30.303Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T10:27:09.025Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea6"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:30.307Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.307Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea7"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:30.339Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.339Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea8"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:30.382Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T10:27:00.898Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaea9"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:30.396Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.396Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeaa"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:30.427Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.427Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeab"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:30.468Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T10:18:19.988Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeac"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:30.486Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.486Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaead"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:30.508Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.508Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeae"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:30.550Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T07:13:51.551Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Avatar: The Way of Water",
+  "userName": "bmanh7920",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeaf"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:30.574Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.574Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb0"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:30.592Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.592Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb1"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:30.631Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.631Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb2"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:30.667Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.667Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb3"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:30.670Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.670Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb4"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:30.713Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.713Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb5"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:30.753Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.753Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb6"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:30.804Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.804Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb7"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:30.832Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.832Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb8"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:30.893Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.893Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeb9"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:30.912Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.912Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaeba"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:30.983Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.983Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a6d1dd681fe1dfaebb"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:30.992Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:30.992Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaebc"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:31.073Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.073Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaebd"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:31.073Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.073Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaebe"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:31.155Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.155Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaebf"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:31.162Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.162Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec0"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:31.237Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.237Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec1"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:31.249Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.249Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec2"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:31.319Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.319Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec3"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:31.338Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T10:25:22.022Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec4"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:31.402Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.402Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec5"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:31.428Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T03:30:15.826Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Avatar: The Way of Water",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec6"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:31.482Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.482Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec7"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:31.518Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T03:30:27.863Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Avatar: The Way of Water",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec8"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:31.564Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.564Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaec9"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:31.610Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.610Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaeca"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:31.645Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.645Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaecb"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:31.698Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.698Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaecc"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:31.727Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.727Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaece"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:31.787Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.787Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaecd"
+  },
+  "seatName": "A2",
+  "created": {
+    "$date": "2023-07-31T10:06:31.779Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.779Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaecf"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:31.810Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.810Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaed0"
+  },
+  "seatName": "A1",
+  "created": {
+    "$date": "2023-07-31T10:06:31.876Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T06:24:27.786Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "OrderingSeat",
+  "moviesId": "tt3915174",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaed1"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:31.880Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.880Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaed2"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:31.896Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.896Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaed3"
+  },
+  "seatName": "A3",
+  "created": {
+    "$date": "2023-07-31T10:06:31.955Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.955Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaed4"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:31.966Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.966Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a7d1dd681fe1dfaed5"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:31.974Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:31.974Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaed6"
+  },
+  "seatName": "A4",
+  "created": {
+    "$date": "2023-07-31T10:06:32.033Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.033Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaed7"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:32.054Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.054Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaed8"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:32.055Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.055Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaed9"
+  },
+  "seatName": "A5",
+  "created": {
+    "$date": "2023-07-31T10:06:32.113Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.113Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaeda"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:32.130Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.130Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaedb"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:32.141Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.141Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaedc"
+  },
+  "seatName": "A6",
+  "created": {
+    "$date": "2023-07-31T10:06:32.190Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.190Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaedd"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:32.206Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.206Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaede"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:32.228Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.228Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaedf"
+  },
+  "seatName": "A7",
+  "created": {
+    "$date": "2023-07-31T10:06:32.271Z"
+  },
+  "updated": {
+    "$date": "2023-08-06T08:37:53.749Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Disney & Pixar",
+  "userName": "manh2002",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee0"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:32.280Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.280Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee1"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:32.308Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.308Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee2"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:32.358Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.358Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee3"
+  },
+  "seatName": "A8",
+  "created": {
+    "$date": "2023-07-31T10:06:32.360Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.360Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee4"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:32.388Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.388Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee5"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:32.434Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.434Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee6"
+  },
+  "seatName": "A9",
+  "created": {
+    "$date": "2023-07-31T10:06:32.445Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.445Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee7"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:32.476Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.476Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee8"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:32.545Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.545Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaeea"
+  },
+  "seatName": "A10",
+  "created": {
+    "$date": "2023-07-31T10:06:32.555Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.555Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaee9"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:32.555Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.555Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaeeb"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:32.639Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.639Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaeec"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:32.641Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.641Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaeed"
+  },
+  "seatName": "B1",
+  "created": {
+    "$date": "2023-07-31T10:06:32.652Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.652Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaeef"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:32.808Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.808Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaeee"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:32.806Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.806Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaef0"
+  },
+  "seatName": "B2",
+  "created": {
+    "$date": "2023-07-31T10:06:32.812Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.812Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaef2"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:32.889Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.889Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaef1"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:32.889Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.889Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaef3"
+  },
+  "seatName": "B3",
+  "created": {
+    "$date": "2023-07-31T10:06:32.908Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T13:15:05.530Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaef4"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:32.971Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.971Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a8d1dd681fe1dfaef5"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:32.972Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:32.972Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaef6"
+  },
+  "seatName": "B4",
+  "created": {
+    "$date": "2023-07-31T10:06:33.006Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.006Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaef7"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:33.066Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.066Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaef8"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:33.070Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.070Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaef9"
+  },
+  "seatName": "B5",
+  "created": {
+    "$date": "2023-07-31T10:06:33.096Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.096Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaefa"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:33.145Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.145Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaefb"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:33.160Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.160Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaefc"
+  },
+  "seatName": "B6",
+  "created": {
+    "$date": "2023-07-31T10:06:33.188Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.188Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaefd"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:33.227Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.227Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaefe"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:33.244Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.244Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaeff"
+  },
+  "seatName": "B7",
+  "created": {
+    "$date": "2023-07-31T10:06:33.279Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.279Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf00"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:33.308Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.308Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf01"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:33.325Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.325Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf02"
+  },
+  "seatName": "B8",
+  "created": {
+    "$date": "2023-07-31T10:06:33.369Z"
+  },
+  "updated": {
+    "$date": "2023-08-06T08:37:53.794Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Disney & Pixar",
+  "userName": "manh2002",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf03"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:33.423Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.423Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf04"
+  },
+  "seatName": "B9",
+  "created": {
+    "$date": "2023-07-31T10:06:33.458Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.458Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf05"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:33.512Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.512Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf06"
+  },
+  "seatName": "B10",
+  "created": {
+    "$date": "2023-07-31T10:06:33.544Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.544Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf07"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:33.607Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.607Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf08"
+  },
+  "seatName": "E1",
+  "created": {
+    "$date": "2023-07-31T10:06:33.627Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.627Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf09"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:33.704Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.704Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf0a"
+  },
+  "seatName": "E2",
+  "created": {
+    "$date": "2023-07-31T10:06:33.719Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.719Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf0b"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:33.797Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.797Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf0c"
+  },
+  "seatName": "E3",
+  "created": {
+    "$date": "2023-07-31T10:06:33.804Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T07:14:29.530Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Puss in Boots: The Last Wish",
+  "userName": "bmanh7920",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf0d"
+  },
+  "seatName": "E4",
+  "created": {
+    "$date": "2023-07-31T10:06:33.890Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.890Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf0e"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:33.897Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.897Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf0f"
+  },
+  "seatName": "E5",
+  "created": {
+    "$date": "2023-07-31T10:06:33.975Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.975Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787a9d1dd681fe1dfaf10"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:33.999Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:33.999Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf11"
+  },
+  "seatName": "E6",
+  "created": {
+    "$date": "2023-07-31T10:06:34.058Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.058Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf12"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:34.090Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.090Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf13"
+  },
+  "seatName": "E7",
+  "created": {
+    "$date": "2023-07-31T10:06:34.139Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.139Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf14"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:34.180Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.180Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf15"
+  },
+  "seatName": "E8",
+  "created": {
+    "$date": "2023-07-31T10:06:34.221Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.221Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf16"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:34.271Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.271Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf17"
+  },
+  "seatName": "E9",
+  "created": {
+    "$date": "2023-07-31T10:06:34.311Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.311Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf18"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:34.387Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.387Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf19"
+  },
+  "seatName": "E10",
+  "created": {
+    "$date": "2023-07-31T10:06:34.406Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.406Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf1a"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:34.505Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.505Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf1b"
+  },
+  "seatName": "F1",
+  "created": {
+    "$date": "2023-07-31T10:06:34.522Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.522Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf1d"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:34.635Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.635Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf1c"
+  },
+  "seatName": "F2",
+  "created": {
+    "$date": "2023-07-31T10:06:34.632Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.632Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf1f"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:34.875Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T10:19:22.514Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787aad1dd681fe1dfaf1e"
+  },
+  "seatName": "F3",
+  "created": {
+    "$date": "2023-07-31T10:06:34.872Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:34.872Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf21"
+  },
+  "seatName": "F4",
+  "created": {
+    "$date": "2023-07-31T10:06:35.005Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.005Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf20"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:35.005Z"
+  },
+  "updated": {
+    "$date": "2023-08-01T10:24:36.492Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf22"
+  },
+  "seatName": "F5",
+  "created": {
+    "$date": "2023-07-31T10:06:35.102Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.102Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf23"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:35.109Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T03:30:27.955Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "moviesId": "Avatar: The Way of Water",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf24"
+  },
+  "seatName": "F6",
+  "created": {
+    "$date": "2023-07-31T10:06:35.212Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.212Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf25"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:35.229Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.229Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf26"
+  },
+  "seatName": "F7",
+  "created": {
+    "$date": "2023-07-31T10:06:35.295Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.295Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf27"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:35.319Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.319Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf28"
+  },
+  "seatName": "F8",
+  "created": {
+    "$date": "2023-07-31T10:06:35.389Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.389Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf29"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:35.447Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.447Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf2a"
+  },
+  "seatName": "F9",
+  "created": {
+    "$date": "2023-07-31T10:06:35.499Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.499Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf2b"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:35.567Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.567Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf2c"
+  },
+  "seatName": "F10",
+  "created": {
+    "$date": "2023-07-31T10:06:35.605Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.605Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf2d"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:35.660Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.660Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf2e"
+  },
+  "seatName": "C1",
+  "created": {
+    "$date": "2023-07-31T10:06:35.713Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.713Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf2f"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:35.773Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.773Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf30"
+  },
+  "seatName": "C2",
+  "created": {
+    "$date": "2023-07-31T10:06:35.827Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T07:54:35.223Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Puss in Boots: The Last Wish",
+  "userName": "manh2002",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf31"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:35.883Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.883Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf32"
+  },
+  "seatName": "C9",
+  "created": {
+    "$date": "2023-07-31T10:06:35.921Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.921Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787abd1dd681fe1dfaf33"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:35.985Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:35.985Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf34"
+  },
+  "seatName": "C10",
+  "created": {
+    "$date": "2023-07-31T10:06:36.040Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:36.040Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf35"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:36.091Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:36.091Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf36"
+  },
+  "seatName": "D1",
+  "created": {
+    "$date": "2023-07-31T10:06:36.132Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:36.132Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf37"
+  },
+  "seatName": "D2",
+  "created": {
+    "$date": "2023-07-31T10:06:36.225Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T07:14:29.618Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "lockedSeat",
+  "moviesId": "Puss in Boots: The Last Wish",
+  "userName": "bmanh7920",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf38"
+  },
+  "seatName": "D9",
+  "created": {
+    "$date": "2023-07-31T10:06:36.310Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:36.310Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf39"
+  },
+  "seatName": "D10",
+  "created": {
+    "$date": "2023-07-31T10:06:36.392Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:36.392Z"
+  },
+  "style": "normalSeat",
+  "price": 50000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf3a"
+  },
+  "seatName": "C3",
+  "created": {
+    "$date": "2023-07-31T10:06:36.475Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T13:13:10.934Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf3b"
+  },
+  "seatName": "C4",
+  "created": {
+    "$date": "2023-07-31T10:06:36.558Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T13:24:11.611Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf3c"
+  },
+  "seatName": "C5",
+  "created": {
+    "$date": "2023-07-31T10:06:36.646Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T13:33:45.895Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf3d"
+  },
+  "seatName": "C6",
+  "created": {
+    "$date": "2023-07-31T10:06:36.731Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:36.731Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf3e"
+  },
+  "seatName": "C7",
+  "created": {
+    "$date": "2023-07-31T10:06:36.814Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:36.814Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf3f"
+  },
+  "seatName": "C8",
+  "created": {
+    "$date": "2023-07-31T10:06:36.900Z"
+  },
+  "updated": {
+    "$date": "2023-08-06T08:37:53.852Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "moviesId": "Disney & Pixar",
+  "userName": "manh2002",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787acd1dd681fe1dfaf40"
+  },
+  "seatName": "D3",
+  "created": {
+    "$date": "2023-07-31T10:06:36.984Z"
+  },
+  "updated": {
+    "$date": "2023-08-03T07:54:35.308Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "moviesId": "Puss in Boots: The Last Wish",
+  "userName": "manh2002",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787add1dd681fe1dfaf41"
+  },
+  "seatName": "D8",
+  "created": {
+    "$date": "2023-07-31T10:06:37.072Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:37.072Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "seat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787add1dd681fe1dfaf42"
+  },
+  "seatName": "D4",
+  "created": {
+    "$date": "2023-07-31T10:06:37.155Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:37.155Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787add1dd681fe1dfaf43"
+  },
+  "seatName": "D5",
+  "created": {
+    "$date": "2023-07-31T10:06:37.247Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:37.247Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787add1dd681fe1dfaf44"
+  },
+  "seatName": "D6",
+  "created": {
+    "$date": "2023-07-31T10:06:37.335Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:37.335Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+},
+{
+  "_id": {
+    "$oid": "64c787add1dd681fe1dfaf45"
+  },
+  "seatName": "D7",
+  "created": {
+    "$date": "2023-07-31T10:06:37.422Z"
+  },
+  "updated": {
+    "$date": "2023-07-31T10:06:37.422Z"
+  },
+  "style": "vipSeat",
+  "price": 60000,
+  "status": "lockedSeat",
+  "_class": "dev.farhan.movieist.movies.model.Seat"
+}]

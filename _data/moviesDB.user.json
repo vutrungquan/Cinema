@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "64bf8346e6869a3e4ceffe15"
+  },
+  "username": "bmanh7920",
+  "email": "bmanh7920@gmail.com",
+  "password": "$2a$10$W6BYTjINgjfWPPZvBG/7N.HN/CD4WnkEauXjGTKwQmv9Ep4PF58MG",
+  "ViewMovies": [],
+  "OrderedSeat": [
+    {
+      "$oid": "64c78798d1dd681fe1dfad58"
+    },
+    {
+      "$oid": "64c78799d1dd681fe1dfad5a"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3a"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaef3"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3b"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3c"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeab"
+    },
+    {
+      "$oid": "64c787aad1dd681fe1dfaf1f"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf20"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec3"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea8"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaea5"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae6f"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae72"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae75"
+    },
+    {
+      "$oid": "64c787a5d1dd681fe1dfae8c"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae78"
+    },
+    {
+      "$oid": "64c787a4d1dd681fe1dfae7c"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec5"
+    },
+    {
+      "$oid": "64c787a7d1dd681fe1dfaec7"
+    },
+    {
+      "$oid": "64c787abd1dd681fe1dfaf23"
+    },
+    {
+      "$oid": "64c787a6d1dd681fe1dfaeae"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf0c"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf37"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae42"
+    },
+    {
+      "$oid": "64c787a2d1dd681fe1dfae46"
+    }
+  ],
+  "_class": "dev.farhan.movieist.movies.model.User"
+},
+{
+  "_id": {
+    "$oid": "64bfdf992dfd5331b602562a"
+  },
+  "username": "20098251",
+  "email": "huuphuoc263213@gmail.com",
+  "password": "$2a$10$A..d7hsO14ppGHwAusrenONqVGMn2IDnhjZDKyQjMWSjYi9q1S0o2",
+  "_class": "dev.farhan.movieist.movies.model.User"
+},
+{
+  "_id": {
+    "$oid": "64bff0c5b2294c3177002aee"
+  },
+  "username": "123",
+  "email": "123@gmail.com",
+  "password": "$2a$10$j3q86Yzi.BqjNdFVtOkCAOXTd9RGztz4ywy.GQPwu/9MkSEsr4ohu",
+  "_class": "dev.farhan.movieist.movies.model.User"
+},
+{
+  "_id": {
+    "$oid": "64c0b806896c0335ee0af47d"
+  },
+  "username": "khanhnhat242",
+  "email": "ksdlkj@gmail.com",
+  "password": "$2a$10$/zmmsT4xkPk1M.Dbp0DZiepHj/LCynHvW0APUG02OzaRo96PiWz1u",
+  "_class": "dev.farhan.movieist.movies.model.User"
+},
+{
+  "_id": {
+    "$oid": "64cb4798e22a521cf12a31fc"
+  },
+  "username": "manh2002",
+  "email": "ab@gmail.com",
+  "password": "$2a$10$E0.G7HMWtG7RZd6JflWAIueiapSJKTVEBse.KrqO5Q/eASIi.a53W",
+  "ViewMovies": [
+    {
+      "$oid": "64abba211c3b9614d4842302"
+    }
+  ],
+  "OrderedSeat": [
+    {
+      "$oid": "64c787abd1dd681fe1dfaf30"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf40"
+    },
+    {
+      "$oid": "64c787a8d1dd681fe1dfaedf"
+    },
+    {
+      "$oid": "64c787a9d1dd681fe1dfaf02"
+    },
+    {
+      "$oid": "64c787acd1dd681fe1dfaf3f"
+    }
+  ],
+  "_class": "dev.farhan.movieist.movies.model.User"
+},
+{
+  "_id": {
+    "$oid": "64cb569e4b13d6033417e138"
+  },
+  "username": "manh",
+  "email": "a@gmail",
+  "password": "$2a$10$6akQDCvlJ/VO73TUa7ICduUk1bvwCQQzJmhpGqOPuOLbGvy1gPo0u",
+  "_class": "dev.farhan.movieist.movies.model.User"
+},
+{
+  "_id": {
+    "$oid": "64cb5ab94b13d6033417e13c"
+  },
+  "username": "bmanh123",
+  "email": "a@gmail.com",
+  "password": "$2a$10$cWs0/q1y/0ctFm33QKfNk.qdG1zGusqmHIN0w0jnYY0v5hnWw.1G2",
+  "_class": "dev.farhan.movieist.movies.model.User"
+},
+{
+  "_id": {
+    "$oid": "64ce0cbeda010540c2cf1978"
+  },
+  "username": "manh321",
+  "email": "ab@mail",
+  "password": "$2a$10$fvrrQ7eAbUNO8rR4ErNvoeBwiaRP.fcDzzlQx9d5qx0GQ2x1huSKu",
+  "ViewMovies": [],
+  "OrderedSeat": [
+    {
+      "$oid": "64c7879fd1dd681fe1dfade2"
+    },
+    {
+      "$oid": "64c787a3d1dd681fe1dfae62"
+    }
+  ],
+  "_class": "dev.farhan.movieist.movies.model.User"
+}]
